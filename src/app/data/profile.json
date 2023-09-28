@@ -1,0 +1,80 @@
+{
+   "username":"Ismail KOUIDI",
+   "image_path":"/assets/images/profile.jpg",
+   "intro": [
+       "Hi, Welcome to my portfolio.",
+       "My name ismail kouidi i'm 23 years old and a final year student at polytech marseille in the computer science department. I'm passionate about programming and the DevOps philosophy."
+      ]
+      ,   "skills":[
+      {
+         "label":"Algorithms",
+         "value":"50"
+      },
+      {
+         "label":"MEAN stack (MongoDB/ExpressJS/Angular/NodeJS)",
+         "value":"50"
+      },
+      {
+         "label":"Bootstrap/HTML/JavaScript",
+         "value":"50"
+      },
+      {
+         "label":"Java/Spring-boot",
+         "value":"50"
+      },
+      {
+         "label":"DevOps tools : Git/GitLab/Docker/Ansible",
+         "value":"50"
+      }
+   ],
+   "workExperience":[
+      {
+         "company_name":"Allegro DVT (PME)",
+         "designation":"full-stack Developer (Node.js) Intern",
+         "time_period":"June 2023 - September 2023",
+         "website" : "https://www.allegrodvt.com/",
+         "summary":[
+            "Developed Customer Web Application for social media management from scratch.",
+            "Designed frontend with Angular 7 and backend services with Java framework spring-boot.",
+            "Worked in System Design, System Testing, API Integration and Cloud Services for the deployment and production of the application."
+         ]
+      },
+      {
+         "company_name":"Onexti (startup)",
+         "designation":"DevOps Intern",
+         "time_period":"December 2018 - April 2019",
+         "website" : "https://www.onexti.com/",
+         "summary":[
+            "Contributed in projects Badgeyay, OpenEvent Frontend, account.susi.ai.",
+            "Raised 13 pull requests and 10+ front-end and backend issues. Also reviewed, perfected and pushed the codes of other developers in production."
+         ]
+      }
+   ],
+   "education":[
+      {
+         "degree":"5th year polytech Marseille computer engineering (information systems)",
+         "institute":"Polytech Marseille",
+         "summary":[
+            ""
+         ]
+      },
+      {
+         "degree":"4th year polytech Marseille computer engineering (information systems)",
+         "institute":"Polytech Marseille",
+         "summary":[
+            "Courses undertaken Cloud,OOP java,Design patterns,web developement(Angular)."
+         ]
+      },
+      {
+         "degree":"Bachelor's degree in software engineering (bac +3)",
+         "institute":"ESISA Fes,Morocco",
+         "summary":[
+            "Courses undertaken Algorithms,C#,Java,Web dev"
+         ]
+      }
+   ],
+   "mail":"ismailkouidi1@gmail.com",
+   "github":"https://github.com/Smail-k",
+   "githubusername":"Smail-k",
+   "linkdin":"https://www.linkedin.com/in/ismail kouidi/"
+}

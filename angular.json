@@ -31,9 +31,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/animate.css",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/card.css",
+              "src/assets/css/flexslider.css",
+              "src/assets/css/style.css",
+              "src/assets/css/github-calendar-responsive.css"
             ],
-            "scripts": []
+            "scripts": [
+              
+            ]
           },
           "configurations": {
             "production": {

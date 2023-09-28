@@ -1,0 +1,82 @@
+{
+    "projectTitles" :[
+        {
+            "title": "Java Projects (web)",
+            "code": "java"
+        },
+        {
+            "title": "JavaScript Projects",
+            "code": "js"
+        },
+        {
+            "title": "DevOps Projects",
+            "code": "devops"
+        }
+    ],
+   "java":{
+      "label":"Java Projects",
+      "description" : [],
+      "data":[
+         {
+            "project_name":"note management project",
+            "image_path":"/assets/images/notes1.png",
+            "summary":"Project aimed at facilitating the collection, recording and analysis of students' grades in the various subjects of the computer science department. based on input Excel files.",
+            "demoURL":"https://github.com/Smail-k/Gestion-des-notes",
+            "technologies":["java","spring-boot","angular","jwt"]
+         },
+         {
+            "project_name":"Ecommerce REST API",
+            "image_path":"/assets/images/restapi.jpg",
+            "summary" : "This project involves building a RESTful API using Spring Boot for an e-commerce application. The API enables users to search, view, add, update, and delete products, users, and orders. It is designed to be highly extensible and secure.",
+            "demoURL":"https://github.com/Smail-k/Ecommerce-nodejs",
+            "technologies" :["spring-boot","java","Mysql"]
+
+         }
+      ]
+   },
+   "js":{
+      "label":"JavaScript projects",
+      "description" : [
+      ],
+      "data":[
+         {
+            "project_name":"Ecommerce REST API",
+            "image_path":"/assets/images/shopit.png",
+            "summary" : "I was responsible for developing the backend of our e-commerce website using Node.js, while my colleague focused on crafting the front-end with React. My role was creating and managing site features, such as product and user management, order processing, and implementing robust authentication and security measures. I also ensured seamless communication between the front-end and backend",
+            "demoURL" : "https://github.com/Smail-k/Ecommerce-nodejs",
+            "technologies" :["Node.js","javascript","MongoDB","JWT","react.js"]
+
+         },
+         {
+            "project_name":"School map (full stack)",
+            "image_path":"/assets/images/schoolmap.png",
+            "summary" : "map [satellite view] for the new students in an university to get familiarised with it before joinning it . it's a dynamic app, with mongoDB as a Database",
+            "demoURL" : "https://github.com/Smail-k/school-map",
+            "technologies" :["Node.js","javascript","MongoDB","ejs"]
+         }
+      ]
+   },
+   "devops":{
+      "label":"DevOps projects",
+      "description" : [
+          ""
+      ],
+      "data":[
+         {
+            "project_name":"Microservices Containerization with Docker",
+            "image_path":"/assets/images/docker.png",
+            "summary" : "Containerized a Spring Boot microservices application with Docker, including authentication, Angular-based front-end, and two databases.",
+            "demoURL":"https://github.com/Smail-k/cloud-docker",
+            "technologies" :["DevOps" ,"docker","angular","spring"]
+
+         },
+         {
+            "project_name" : "Highly Available Application Deployment Platform with Ansible and Nginx",
+            "image_path":"/assets/images/ansible.png",
+            "summary" : "Implemented a highly available application deployment platform using Ansible in a DevOps project. Leveraged Nginx web server and load balancing for seamless application availability. Automated server configuration, load distribution, and monitoring for reliable and scalable deployments.",
+            "demoURL" : "https://github.com/Smail-k/Ansible-Nginx-automating-",
+            "technologies":["DevOps" ,"Ansible"]
+         }
+      ]
+   }
+}
